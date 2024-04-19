@@ -1,4 +1,4 @@
-# Rock-Paper-scissors-Game
+# Rock-Paper-Scissors-Game
 Play a never ending Rock Paper Scissors Game!
 
 Here's the site-->
